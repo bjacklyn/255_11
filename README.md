@@ -19,8 +19,8 @@
 * https://www.youtube.com/watch?v=3gZYrl24HNI
 
 5) GBM Classifier Techniques
-*
-*
+* https://colab.research.google.com/drive/1yigGwJTmUvZZ9EPCieFEc6x0hhsS_z0z?usp=sharing
+* https://www.youtube.com/watch?v=khZrUWU9Na0
 
 6) GBM Regession Techniques
 *
