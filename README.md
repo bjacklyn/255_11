@@ -27,6 +27,6 @@
 * https://www.youtube.com/watch?v=sLrbVPW7L7A
 
 7) GBM Ranking Techniques
-*
-*
+* https://colab.research.google.com/drive/1uRtZceK8WhlrJBnMIDN07f84NLdzd8HZ?usp=sharing
+* https://www.youtube.com/watch?v=nPrqB0sdgzQ
 
