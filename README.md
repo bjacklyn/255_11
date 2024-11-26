@@ -23,8 +23,8 @@
 * https://www.youtube.com/watch?v=khZrUWU9Na0
 
 6) GBM Regession Techniques
-*
-*
+* https://colab.research.google.com/drive/1t7FCsG1eh8yamIvgqNv6NQCgBJgIUX8m?usp=sharing
+* https://www.youtube.com/watch?v=sLrbVPW7L7A
 
 7) GBM Ranking Techniques
 *
